@@ -23,11 +23,11 @@ This repository contains PyTorch implementation of the following paper: GANomaly
     ```
     conda create -n ganomaly python=3.7
     ```
-3. Activate the virtual environment.
+3. Activate the virtual environment
     ```
     conda activate ganomaly
     ```
-3. Install the dependencies.
+3. Install the dependencies
    ```
    conda install -c intel mkl_fft
    pip install --user --requirement requirements.txt
